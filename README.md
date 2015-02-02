@@ -1,6 +1,6 @@
-# AstraZeneca Agile Centre of Excellence
+# Angry Wirds
 
-Static website for Agile CoE
+Hackday Project for Wobbly Type
 
 ### getting started
 
